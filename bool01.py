@@ -9,7 +9,10 @@
     #"""
     # Write your code here
    # return 
-a = int
-b = int
 
-print(a==b)
+
+
+def main(a,b):
+   return (a==b)
+
+print(main(7,9))
